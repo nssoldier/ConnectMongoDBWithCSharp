@@ -1,0 +1,12 @@
+C:\Users\Hoang\Desktop\mongo vs mysql\DemoMongoDB3Layer\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\Hoang\Desktop\mongo vs mysql\DemoMongoDB3Layer\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Hoang\Desktop\mongo vs mysql\DemoMongoDB3Layer\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Hoang\Desktop\mongo vs mysql\DemoMongoDB3Layer\DAL\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Hoang\Desktop\mongo vs mysql\DemoMongoDB3Layer\DAL\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Hoang\Desktop\mongo vs mysql\DemoMongoDB3Layer\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\Hoang\Desktop\mongo vs mysql\DemoMongoDB3Layer\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\mongo vs mysql\DemoMongoDB3Layer\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\mongo vs mysql\DemoMongoDB3Layer\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\mongo vs mysql\DemoMongoDB3Layer\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\Hoang\Desktop\mongo vs mysql\DemoMongoDB3Layer\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\Hoang\Desktop\mongo vs mysql\DemoMongoDB3Layer\DAL\obj\Debug\netstandard2.0\DAL.pdb
