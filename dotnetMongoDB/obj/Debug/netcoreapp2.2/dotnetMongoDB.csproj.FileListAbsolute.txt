@@ -1,0 +1,11 @@
+C:\Users\Hoang\Desktop\mongo vs mysql\dotnetMongoDB\bin\Debug\netcoreapp2.2\dotnetMongoDB.deps.json
+C:\Users\Hoang\Desktop\mongo vs mysql\dotnetMongoDB\bin\Debug\netcoreapp2.2\dotnetMongoDB.runtimeconfig.json
+C:\Users\Hoang\Desktop\mongo vs mysql\dotnetMongoDB\bin\Debug\netcoreapp2.2\dotnetMongoDB.runtimeconfig.dev.json
+C:\Users\Hoang\Desktop\mongo vs mysql\dotnetMongoDB\bin\Debug\netcoreapp2.2\dotnetMongoDB.dll
+C:\Users\Hoang\Desktop\mongo vs mysql\dotnetMongoDB\bin\Debug\netcoreapp2.2\dotnetMongoDB.pdb
+C:\Users\Hoang\Desktop\mongo vs mysql\dotnetMongoDB\obj\Debug\netcoreapp2.2\dotnetMongoDB.csprojAssemblyReference.cache
+C:\Users\Hoang\Desktop\mongo vs mysql\dotnetMongoDB\obj\Debug\netcoreapp2.2\dotnetMongoDB.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\mongo vs mysql\dotnetMongoDB\obj\Debug\netcoreapp2.2\dotnetMongoDB.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\mongo vs mysql\dotnetMongoDB\obj\Debug\netcoreapp2.2\dotnetMongoDB.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\mongo vs mysql\dotnetMongoDB\obj\Debug\netcoreapp2.2\dotnetMongoDB.dll
+C:\Users\Hoang\Desktop\mongo vs mysql\dotnetMongoDB\obj\Debug\netcoreapp2.2\dotnetMongoDB.pdb

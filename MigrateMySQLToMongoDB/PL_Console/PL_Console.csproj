@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Persistence\Persistence.csproj" />
+    <ProjectReference Include="..\BL\BL.csproj" />
+  </ItemGroup>
+<ItemGroup>
+    <EmbeddedResource Include=".\ConnectionString.txt">
+      <Link>./ConnectionString.txt</Link>
+    </EmbeddedResource>
+    <None Include=".\ConnectionString.txt" CopyToOutputDirectory="Always">
+      <Pack>True</Pack>
+      <PackagePath>.</PackagePath>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+</Project>
